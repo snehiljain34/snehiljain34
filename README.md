@@ -13,7 +13,7 @@
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
 - 🌐 Visit my [CV](https://github.com/snehiljain34/images/blob/main/SnehilJain.pdf)
-- 🌐 Visit my [porfolio website](https://snehil34.herokuapp.com).
+- 🌐 Visit my [porfolio website](http://snehiljain34.ml/).
 
 <!--
 **SparshJain2000/SparshJain2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
