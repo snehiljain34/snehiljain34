@@ -12,7 +12,7 @@
 - 🤝 Open for collaborations in frontend and backend web development.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
-- 🌐 Visit my [CV](https://github.com/snehiljain34/images/blob/main/SnehilJain.pdf)
+- 🌐 Visit my [CV](https://github.com/snehiljain34/images/blob/main/SnehilJain2.pdf)
 - 🌐 Visit my [porfolio website](http://snehiljain34.ml/).
 
 <!--
